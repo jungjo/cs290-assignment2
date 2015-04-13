@@ -11,12 +11,7 @@ p.normal {
     font-weight: normal;
 }
 
-dt.hello:hover + dd{
+dt:hover + dd{
        background: purple;
 }
-dt.calling:hover + dd{
-	background: purple;
-}
-dt.go:hover + dd{
-	background: purple;
-}	
+	

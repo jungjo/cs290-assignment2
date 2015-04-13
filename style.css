@@ -1,0 +1,22 @@
+table {
+	border: 1px solid black;
+	width: 100%;
+}	
+p.italic {
+    font-style: italic;
+    font-weight: normal;	
+}
+p.normal {
+    font-style: normal;
+    font-weight: normal;
+}
+
+dt.hello:hover + dd{
+       background: purple;
+}
+dt.calling:hover + dd{
+	background: purple;
+}
+dt.go:hover + dd{
+	background: purple;
+}	

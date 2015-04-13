@@ -14,4 +14,17 @@ p.normal {
 dt:hover + dd{
        background: purple;
 }
-	
+div.outer-content {
+	position: relative;
+	background: pink;
+	text-align: left;
+	width: 75%;
+	padding: 10px;
+	top: 20px;
+}	
+div.inner-content {
+	background: blue;
+	text-align: center;
+	width: 75%;
+	margin: 0 auto;
+}	
